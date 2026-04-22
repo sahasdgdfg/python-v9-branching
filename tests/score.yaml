@@ -1,0 +1,31 @@
+tests:
+  - name: task1
+    path: tests/test_task1.py
+    weight: 1
+  - name: task2
+    path: tests/test_task2.py
+    weight: 1
+  - name: task3
+    path: tests/test_task3.py
+    weight: 1
+  - name: task4
+    path: tests/test_task4.py
+    weight: 1
+  - name: task5
+    path: tests/test_task5.py
+    weight: 1
+  - name: task6
+    path: tests/test_task6.py
+    weight: 1
+  - name: task7
+    path: tests/test_task7.py
+    weight: 1
+  - name: task8
+    path: tests/test_task8.py
+    weight: 1
+  - name: task9
+    path: tests/test_task9.py
+    weight: 1
+  - name: task10
+    path: tests/test_task10.py
+    weight: 1
